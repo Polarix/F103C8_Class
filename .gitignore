@@ -3,6 +3,7 @@ fp-info-cache
 
 # Auto backup files
 *.bak
+*backups/
 
 # User preferences
 *.kicad_prl
