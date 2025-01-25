@@ -1,2 +1,2 @@
-# F103C8_Class
-MCU core board
+# STM32F103C8单片机核心板
+一款设计用于STM32F103及引脚布局兼容单片机的核心板设计。
