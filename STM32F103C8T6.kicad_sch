@@ -5401,18 +5401,6 @@
 		(uuid "3d8008f8-0217-4017-9143-e6783fc9ddca")
 	)
 	(junction
-		(at 231.14 190.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3fcc0e5c-7ccc-4eb0-ac63-cbd934a2bc62")
-	)
-	(junction
-		(at 223.52 190.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "46db7e5b-9bfc-49af-a1aa-e1b92388fbe9")
-	)
-	(junction
 		(at 353.06 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6252,16 +6240,6 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 190.5) (xy 223.52 190.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "363bf40d-5f61-44ef-9ed6-5d27115ee3e9")
-	)
-	(wire
-		(pts
 			(xy 322.58 139.7) (xy 322.58 142.24)
 		)
 		(stroke
@@ -6892,7 +6870,7 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 190.5) (xy 220.98 190.5)
+			(xy 220.98 190.5) (xy 228.6 190.5)
 		)
 		(stroke
 			(width 0)
@@ -7032,7 +7010,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 190.5) (xy 228.6 190.5)
+			(xy 228.6 190.5) (xy 236.22 190.5)
 		)
 		(stroke
 			(width 0)
@@ -8029,16 +8007,6 @@
 			(type default)
 		)
 		(uuid "cdd4cbba-5e9d-465d-acb6-6d05b272443e")
-	)
-	(wire
-		(pts
-			(xy 236.22 190.5) (xy 231.14 190.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ce8d3cba-f250-4bc1-b44a-6f161dadf0e9")
 	)
 	(wire
 		(pts
@@ -16056,7 +16024,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 227.33 190.5 270)
+		(at 353.06 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16065,7 +16033,7 @@
 		(fields_autoplaced yes)
 		(uuid "efa9bb23-1f71-4be9-800a-404948cc0788")
 		(property "Reference" "C15"
-			(at 227.965 193.802 0)
+			(at 356.87 132.0799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16074,7 +16042,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 225.425 193.802 0)
+			(at 356.87 134.6199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16083,7 +16051,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 223.52 191.4652 0)
+			(at 354.0252 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16092,7 +16060,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 227.33 190.5 0)
+			(at 353.06 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16101,7 +16069,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 227.33 190.5 0)
+			(at 353.06 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
