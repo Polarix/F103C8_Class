@@ -1221,6 +1221,108 @@
 				)
 			)
 		)
+		(symbol "Connector:TestPoint"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0.762) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "TP"
+				(at 0 6.858 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TestPoint"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "test point"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "test point tp"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Pin* Test*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TestPoint_0_1"
+				(circle
+					(center 0 3.302)
+					(radius 0.762)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "TestPoint_1_1"
+				(pin passive line
+					(at 0 0 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Connector:USB_C_Receptacle_USB2.0"
 			(pin_names
 				(offset 1.016)
@@ -3579,6 +3681,108 @@
 				)
 			)
 		)
+		(symbol "Mechanical:MountingHole_Pad_MP"
+			(pin_numbers hide)
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim yes)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole_Pad_MP"
+				(at 0 4.445 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole with connection as pad named MP"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*Pad*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_Pad_MP_0_1"
+				(circle
+					(center 0 1.27)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "MountingHole_Pad_MP_1_1"
+				(pin input line
+					(at 0 -2.54 90)
+					(length 2.54)
+					(name "MP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "MP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Regulator_Linear:MIC5219-3.3YM5"
 			(pin_names
 				(offset 0.254)
@@ -5521,6 +5725,12 @@
 		(uuid "9ecc0d2a-f719-4306-9821-f7404c126857")
 	)
 	(junction
+		(at 25.4 210.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9f54360b-6681-4b62-94e8-d4608cfe284e")
+	)
+	(junction
 		(at 373.38 127)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5543,6 +5753,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a85a35be-76fa-423d-8860-88d9ff9f642b")
+	)
+	(junction
+		(at 38.1 210.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "acd74d49-b6ad-49f9-a450-2a09f6691846")
 	)
 	(junction
 		(at 340.36 195.58)
@@ -5633,6 +5849,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ef337662-8223-4a26-aaf8-c4245465b330")
+	)
+	(junction
+		(at 50.8 210.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fb40712d-7046-40f9-b1a3-7f53c1ac2415")
 	)
 	(junction
 		(at 127 154.94)
@@ -5970,6 +6192,16 @@
 	)
 	(wire
 		(pts
+			(xy 342.9 66.04) (xy 363.22 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1881d28b-e334-4751-a49a-03a7e826f007")
+	)
+	(wire
+		(pts
 			(xy 304.8 203.2) (xy 317.5 203.2)
 		)
 		(stroke
@@ -6007,16 +6239,6 @@
 			(type default)
 		)
 		(uuid "1a64f43f-b5f5-4889-bf2b-c2f40166d3cd")
-	)
-	(wire
-		(pts
-			(xy 347.98 63.5) (xy 363.22 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1a7bce42-b3f9-4dee-9d0d-b17f7d528dfe")
 	)
 	(wire
 		(pts
@@ -6750,6 +6972,16 @@
 	)
 	(wire
 		(pts
+			(xy 25.4 207.01) (xy 25.4 210.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ea9f8af-fd17-4af1-a9d8-e505a44fa94b")
+	)
+	(wire
+		(pts
 			(xy 355.6 177.8) (xy 355.6 180.34)
 		)
 		(stroke
@@ -6757,6 +6989,16 @@
 			(type default)
 		)
 		(uuid "6048757b-689b-4dc4-a7d0-367aebd7d248")
+	)
+	(wire
+		(pts
+			(xy 342.9 71.12) (xy 363.22 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60a3d342-1030-492e-921f-f2d0eeadb390")
 	)
 	(wire
 		(pts
@@ -6850,6 +7092,16 @@
 	)
 	(wire
 		(pts
+			(xy 38.1 210.82) (xy 50.8 210.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "685b3555-7ac9-4f10-9e8b-2a21a77ffb83")
+	)
+	(wire
+		(pts
 			(xy 203.2 66.04) (xy 223.52 66.04)
 		)
 		(stroke
@@ -6887,16 +7139,6 @@
 			(type default)
 		)
 		(uuid "6a78f422-cf91-4b0e-bd38-cdf026a7b9ee")
-	)
-	(wire
-		(pts
-			(xy 347.98 66.04) (xy 363.22 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6b28cae8-f1c3-43b7-aaef-b1b915eaeb62")
 	)
 	(wire
 		(pts
@@ -6957,6 +7199,16 @@
 			(type default)
 		)
 		(uuid "7079d68a-7dc2-4c80-a12c-2df10d6a9ee1")
+	)
+	(wire
+		(pts
+			(xy 50.8 210.82) (xy 63.5 210.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71d8efc9-2fa6-49c9-9814-05b82fd069fb")
 	)
 	(wire
 		(pts
@@ -7047,6 +7299,16 @@
 			(type default)
 		)
 		(uuid "76956c65-3604-4471-9de0-ee4614c35348")
+	)
+	(wire
+		(pts
+			(xy 342.9 68.58) (xy 363.22 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76dd0b77-5341-4eec-a134-f0d3f9809e1d")
 	)
 	(wire
 		(pts
@@ -7257,6 +7519,16 @@
 			(type default)
 		)
 		(uuid "8c2416a6-7d1b-4e56-96bf-f4799424be4b")
+	)
+	(wire
+		(pts
+			(xy 25.4 210.82) (xy 38.1 210.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c6aede8-0bf6-4583-9396-b3b1874196be")
 	)
 	(wire
 		(pts
@@ -7540,13 +7812,13 @@
 	)
 	(wire
 		(pts
-			(xy 347.98 71.12) (xy 363.22 71.12)
+			(xy 50.8 207.01) (xy 50.8 210.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a3e011eb-c135-415d-b40d-89d8b15c64a4")
+		(uuid "a3ef0943-1c50-44f6-93f8-696d3d32d8b0")
 	)
 	(wire
 		(pts
@@ -7697,16 +7969,6 @@
 			(type default)
 		)
 		(uuid "b105832a-84f9-4924-84b9-d08ceb321dbb")
-	)
-	(wire
-		(pts
-			(xy 347.98 68.58) (xy 363.22 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b1fb5822-433c-4741-9053-775fffde6eeb")
 	)
 	(wire
 		(pts
@@ -8230,6 +8492,16 @@
 	)
 	(wire
 		(pts
+			(xy 25.4 210.82) (xy 25.4 213.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dfad790b-e401-447d-a320-0212b8fd81cd")
+	)
+	(wire
+		(pts
 			(xy 307.34 127) (xy 312.42 127)
 		)
 		(stroke
@@ -8237,6 +8509,16 @@
 			(type default)
 		)
 		(uuid "e0bce00d-ba9a-44ff-9eb9-62661ddfb7f0")
+	)
+	(wire
+		(pts
+			(xy 63.5 207.01) (xy 63.5 210.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0d5970a-a2f0-479e-bac2-81dbb148e11e")
 	)
 	(wire
 		(pts
@@ -8407,6 +8689,16 @@
 			(type default)
 		)
 		(uuid "ebe9f5d6-6061-474b-bc23-edc72f3e4250")
+	)
+	(wire
+		(pts
+			(xy 342.9 63.5) (xy 363.22 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec011010-53d5-49a6-bd7a-6cb9bf4c4414")
 	)
 	(wire
 		(pts
@@ -8740,6 +9032,16 @@
 	)
 	(wire
 		(pts
+			(xy 38.1 207.01) (xy 38.1 210.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "feb92bbb-e11f-4d35-89d6-4041831f568a")
+	)
+	(wire
+		(pts
 			(xy 304.8 99.06) (xy 320.04 99.06)
 		)
 		(stroke
@@ -8838,7 +9140,7 @@
 		)
 		(uuid "13bab991-fbb4-48b9-80a3-d5d1ca1ca8e2")
 	)
-	(label "PD0{slash}OSC_IN"
+	(label "PD0"
 		(at 347.98 66.04 0)
 		(effects
 			(font
@@ -8858,7 +9160,7 @@
 		)
 		(uuid "16634af1-48d9-4bfb-a491-65354eb499a4")
 	)
-	(label "PC14{slash}OSC32_IN"
+	(label "PC14"
 		(at 347.98 71.12 0)
 		(effects
 			(font
@@ -9038,7 +9340,7 @@
 		)
 		(uuid "4732bbf4-d5f4-419d-ac2b-6c265d980ab8")
 	)
-	(label "PD1{slash}OSC_OUT"
+	(label "PD1"
 		(at 347.98 63.5 0)
 		(effects
 			(font
@@ -9618,7 +9920,7 @@
 		)
 		(uuid "dab7e0ee-baab-4038-9c7c-33c7c5a8e2b2")
 	)
-	(label "PC15{slash}OSC32_OUT"
+	(label "PC15"
 		(at 347.98 68.58 0)
 		(effects
 			(font
@@ -10382,6 +10684,139 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad_MP")
+		(at 38.1 204.47 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "170ac49b-ba7e-4351-98a1-2e4560ae6622")
+		(property "Reference" "H2"
+			(at 40.64 201.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "M2 Hole"
+			(at 40.64 204.4699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Append_Connector:Hole_2×4.5mm"
+			(at 38.1 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 38.1 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection as pad named MP"
+			(at 38.1 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "MP"
+			(uuid "12d86314-4b78-4c9b-bdb2-8aef7458a71b")
+		)
+		(instances
+			(project "STM32F103C8T6"
+				(path "/690f65df-a1cb-429d-ab32-37cad1cafded"
+					(reference "H2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "VSS_3")
+		(lib_id "power:VSS")
+		(at 25.4 213.36 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1bcf0035-5bc9-46bb-8472-542e15b1089f")
+		(property "Reference" "#PWR041"
+			(at 25.4 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VSS"
+			(at 25.4 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 25.4 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 25.4 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 25.4 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "abea87cf-db6e-4f6b-a574-0500fdc7a235")
+		)
+		(instances
+			(project "STM32F103C8T6"
+				(path "/690f65df-a1cb-429d-ab32-37cad1cafded"
+					(reference "#PWR041")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 238.76 236.22 0)
 		(unit 1)
@@ -11026,6 +11461,72 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 342.9 66.04 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "30c65d84-01c7-420d-8cb3-5c78e5889796")
+		(property "Reference" "TP2"
+			(at 339.598 60.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PD0"
+			(at 340.614 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Append_Connector:PAD_Semicircular_1mm"
+			(at 342.9 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 342.9 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 342.9 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fe6b117b-a510-4e0f-b152-29c7401e2706")
+		)
+		(instances
+			(project "STM32F103C8T6"
+				(path "/690f65df-a1cb-429d-ab32-37cad1cafded"
+					(reference "TP2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 337.82 133.35 0)
 		(unit 1)
@@ -11488,6 +11989,139 @@
 			(project "STM32F103C8T6"
 				(path "/690f65df-a1cb-429d-ab32-37cad1cafded"
 					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad_MP")
+		(at 63.5 204.47 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4369e344-19fc-4081-8e6c-814a2c857448")
+		(property "Reference" "H4"
+			(at 66.04 201.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "M2 Hole"
+			(at 66.04 204.4699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Append_Connector:Hole_2×4.5mm"
+			(at 63.5 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 63.5 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection as pad named MP"
+			(at 63.5 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "MP"
+			(uuid "e4eb7c34-3351-4cfb-8b1e-09683bccb6ca")
+		)
+		(instances
+			(project "STM32F103C8T6"
+				(path "/690f65df-a1cb-429d-ab32-37cad1cafded"
+					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 342.9 63.5 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4c4e788c-d2aa-4a57-a9d6-8657108728bc")
+		(property "Reference" "TP1"
+			(at 339.598 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PD1"
+			(at 340.614 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Append_Connector:PAD_Semicircular_1mm"
+			(at 342.9 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 342.9 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 342.9 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "db54f5e8-a28b-4203-a57b-521eed9b8315")
+		)
+		(instances
+			(project ""
+				(path "/690f65df-a1cb-429d-ab32-37cad1cafded"
+					(reference "TP1")
 					(unit 1)
 				)
 			)
@@ -13084,6 +13718,72 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 342.9 68.58 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "91bb3121-4b62-401d-b82b-4f39fdf18288")
+		(property "Reference" "TP3"
+			(at 339.598 63.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PC15"
+			(at 340.614 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Append_Connector:PAD_Semicircular_1mm"
+			(at 342.9 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 342.9 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 342.9 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4ac0f99f-3a0a-412b-85e0-9af48d99fd4b")
+		)
+		(instances
+			(project "STM32F103C8T6"
+				(path "/690f65df-a1cb-429d-ab32-37cad1cafded"
+					(reference "TP3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Append_MCU_SOC_FPGA:F103C8_Class")
 		(at 241.3 86.36 0)
 		(unit 1)
@@ -14052,6 +14752,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad_MP")
+		(at 25.4 204.47 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b27fb9fc-3e64-4f78-98db-f38663c052d6")
+		(property "Reference" "H1"
+			(at 27.94 201.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "M2 Hole"
+			(at 27.94 204.4699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Append_Connector:Hole_2×4.5mm"
+			(at 25.4 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 25.4 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection as pad named MP"
+			(at 25.4 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "MP"
+			(uuid "ee4c542a-21ee-4519-8f59-eaad17bf90f3")
+		)
+		(instances
+			(project ""
+				(path "/690f65df-a1cb-429d-ab32-37cad1cafded"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:USB_C_Receptacle_USB2.0")
 		(at 33.02 53.34 0)
 		(unit 1)
@@ -14734,6 +15501,73 @@
 			(project "STM32F103C8T6"
 				(path "/690f65df-a1cb-429d-ab32-37cad1cafded"
 					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad_MP")
+		(at 50.8 204.47 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ce19e40e-ef06-447b-9ecc-9b8c47d4dc7f")
+		(property "Reference" "H3"
+			(at 53.34 201.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "M2 Hole"
+			(at 53.34 204.4699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Append_Connector:Hole_2×4.5mm"
+			(at 50.8 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 50.8 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection as pad named MP"
+			(at 50.8 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "MP"
+			(uuid "7a4cc67b-3923-4abd-89aa-4dbfa1d40f33")
+		)
+		(instances
+			(project "STM32F103C8T6"
+				(path "/690f65df-a1cb-429d-ab32-37cad1cafded"
+					(reference "H3")
 					(unit 1)
 				)
 			)
@@ -16087,6 +16921,72 @@
 			(project "STM32F103C8T6"
 				(path "/690f65df-a1cb-429d-ab32-37cad1cafded"
 					(reference "C15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 342.9 71.12 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f1477a5f-ce0c-46de-8f96-40647f8e80c4")
+		(property "Reference" "TP4"
+			(at 339.598 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PC14"
+			(at 340.614 69.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Append_Connector:PAD_Semicircular_1mm"
+			(at 342.9 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 342.9 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 342.9 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5c92039e-ecf9-4be3-8eeb-4ad621457d21")
+		)
+		(instances
+			(project "STM32F103C8T6"
+				(path "/690f65df-a1cb-429d-ab32-37cad1cafded"
+					(reference "TP4")
 					(unit 1)
 				)
 			)
