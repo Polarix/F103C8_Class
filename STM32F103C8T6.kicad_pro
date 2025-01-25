@@ -667,6 +667,10 @@
       {
         "netclass": "Default",
         "pattern": "/NRST"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/VCAP"
       }
     ]
   },
