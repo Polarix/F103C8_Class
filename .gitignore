@@ -1,0 +1,8 @@
+# KiCAD cache files
+fp-info-cache
+
+# Auto backup files
+*.bak
+
+# User preferences
+*.kicad_prl
