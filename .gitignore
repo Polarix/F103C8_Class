@@ -5,5 +5,8 @@ fp-info-cache
 *.bak
 *backups/
 
+# Lock flag files.
+*.lck
+
 # User preferences
 *.kicad_prl
