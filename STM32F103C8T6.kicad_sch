@@ -5587,7 +5587,7 @@
 		(uuid "22ddd170-f7ae-4133-a166-1123c5d45f55")
 	)
 	(junction
-		(at 279.4 182.88)
+		(at 177.8 193.04)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "25a4daff-0eab-4525-aec1-5ea6f056f354")
@@ -5725,7 +5725,7 @@
 		(uuid "9ecc0d2a-f719-4306-9821-f7404c126857")
 	)
 	(junction
-		(at 25.4 210.82)
+		(at 25.4 248.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9f54360b-6681-4b62-94e8-d4608cfe284e")
@@ -5755,7 +5755,7 @@
 		(uuid "a85a35be-76fa-423d-8860-88d9ff9f642b")
 	)
 	(junction
-		(at 38.1 210.82)
+		(at 38.1 248.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "acd74d49-b6ad-49f9-a450-2a09f6691846")
@@ -5821,7 +5821,7 @@
 		(uuid "d7ddf2cf-22dd-4c09-8372-8947073e8cb7")
 	)
 	(junction
-		(at 279.4 167.64)
+		(at 177.8 177.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d8d84473-6706-4e1d-86d3-379161f41f57")
@@ -5851,7 +5851,7 @@
 		(uuid "ef337662-8223-4a26-aaf8-c4245465b330")
 	)
 	(junction
-		(at 50.8 210.82)
+		(at 50.8 248.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fb40712d-7046-40f9-b1a3-7f53c1ac2415")
@@ -6072,7 +6072,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 170.18) (xy 266.7 167.64)
+			(xy 165.1 180.34) (xy 165.1 177.8)
 		)
 		(stroke
 			(width 0)
@@ -6502,7 +6502,7 @@
 	)
 	(wire
 		(pts
-			(xy 279.4 167.64) (xy 294.64 167.64)
+			(xy 177.8 177.8) (xy 193.04 177.8)
 		)
 		(stroke
 			(width 0)
@@ -6592,7 +6592,7 @@
 	)
 	(wire
 		(pts
-			(xy 279.4 179.07) (xy 279.4 182.88)
+			(xy 177.8 189.23) (xy 177.8 193.04)
 		)
 		(stroke
 			(width 0)
@@ -6742,7 +6742,7 @@
 	)
 	(wire
 		(pts
-			(xy 279.4 167.64) (xy 279.4 171.45)
+			(xy 177.8 177.8) (xy 177.8 181.61)
 		)
 		(stroke
 			(width 0)
@@ -6972,7 +6972,7 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 207.01) (xy 25.4 210.82)
+			(xy 25.4 245.11) (xy 25.4 248.92)
 		)
 		(stroke
 			(width 0)
@@ -7042,7 +7042,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 182.88) (xy 279.4 182.88)
+			(xy 165.1 193.04) (xy 177.8 193.04)
 		)
 		(stroke
 			(width 0)
@@ -7092,7 +7092,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 210.82) (xy 50.8 210.82)
+			(xy 38.1 248.92) (xy 50.8 248.92)
 		)
 		(stroke
 			(width 0)
@@ -7202,7 +7202,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 210.82) (xy 63.5 210.82)
+			(xy 50.8 248.92) (xy 63.5 248.92)
 		)
 		(stroke
 			(width 0)
@@ -7232,7 +7232,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 167.64) (xy 279.4 167.64)
+			(xy 165.1 177.8) (xy 177.8 177.8)
 		)
 		(stroke
 			(width 0)
@@ -7272,7 +7272,7 @@
 	)
 	(wire
 		(pts
-			(xy 279.4 152.4) (xy 279.4 156.21)
+			(xy 177.8 165.1) (xy 177.8 167.64)
 		)
 		(stroke
 			(width 0)
@@ -7342,7 +7342,7 @@
 	)
 	(wire
 		(pts
-			(xy 279.4 182.88) (xy 279.4 185.42)
+			(xy 177.8 193.04) (xy 177.8 195.58)
 		)
 		(stroke
 			(width 0)
@@ -7522,7 +7522,7 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 210.82) (xy 38.1 210.82)
+			(xy 25.4 248.92) (xy 38.1 248.92)
 		)
 		(stroke
 			(width 0)
@@ -7812,7 +7812,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 207.01) (xy 50.8 210.82)
+			(xy 50.8 245.11) (xy 50.8 248.92)
 		)
 		(stroke
 			(width 0)
@@ -7912,7 +7912,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 180.34) (xy 266.7 182.88)
+			(xy 165.1 190.5) (xy 165.1 193.04)
 		)
 		(stroke
 			(width 0)
@@ -8332,7 +8332,7 @@
 	)
 	(wire
 		(pts
-			(xy 279.4 163.83) (xy 279.4 167.64)
+			(xy 177.8 175.26) (xy 177.8 177.8)
 		)
 		(stroke
 			(width 0)
@@ -8492,7 +8492,7 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 210.82) (xy 25.4 213.36)
+			(xy 25.4 248.92) (xy 25.4 251.46)
 		)
 		(stroke
 			(width 0)
@@ -8512,7 +8512,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 207.01) (xy 63.5 210.82)
+			(xy 63.5 245.11) (xy 63.5 248.92)
 		)
 		(stroke
 			(width 0)
@@ -9032,7 +9032,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 207.01) (xy 38.1 210.82)
+			(xy 38.1 245.11) (xy 38.1 248.92)
 		)
 		(stroke
 			(width 0)
@@ -9231,7 +9231,7 @@
 		(uuid "2dcd9bb7-e101-4594-b9f7-ecc3b2d26fe3")
 	)
 	(label "NRST"
-		(at 294.64 167.64 180)
+		(at 193.04 177.8 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10685,7 +10685,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad_MP")
-		(at 38.1 204.47 0)
+		(at 38.1 242.57 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -10694,7 +10694,7 @@
 		(fields_autoplaced yes)
 		(uuid "170ac49b-ba7e-4351-98a1-2e4560ae6622")
 		(property "Reference" "H2"
-			(at 40.64 201.9299 0)
+			(at 40.64 240.0299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10703,7 +10703,7 @@
 			)
 		)
 		(property "Value" "M2 Hole"
-			(at 40.64 204.4699 0)
+			(at 40.64 242.5699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10712,7 +10712,7 @@
 			)
 		)
 		(property "Footprint" "Append_Connector:Hole_2×4.5mm"
-			(at 38.1 204.47 0)
+			(at 38.1 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10721,7 +10721,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 38.1 204.47 0)
+			(at 38.1 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10730,7 +10730,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection as pad named MP"
-			(at 38.1 204.47 0)
+			(at 38.1 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10753,7 +10753,7 @@
 	(symbol
 		(lib_name "VSS_3")
 		(lib_id "power:VSS")
-		(at 25.4 213.36 180)
+		(at 25.4 251.46 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10761,7 +10761,7 @@
 		(dnp no)
 		(uuid "1bcf0035-5bc9-46bb-8472-542e15b1089f")
 		(property "Reference" "#PWR041"
-			(at 25.4 209.55 0)
+			(at 25.4 247.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10770,7 +10770,7 @@
 			)
 		)
 		(property "Value" "VSS"
-			(at 25.4 217.17 0)
+			(at 25.4 255.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10778,7 +10778,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 25.4 213.36 0)
+			(at 25.4 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10787,7 +10787,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 25.4 213.36 0)
+			(at 25.4 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10796,7 +10796,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 25.4 213.36 0)
+			(at 25.4 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11996,7 +11996,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad_MP")
-		(at 63.5 204.47 0)
+		(at 63.5 242.57 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -12005,7 +12005,7 @@
 		(fields_autoplaced yes)
 		(uuid "4369e344-19fc-4081-8e6c-814a2c857448")
 		(property "Reference" "H4"
-			(at 66.04 201.9299 0)
+			(at 66.04 240.0299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12014,7 +12014,7 @@
 			)
 		)
 		(property "Value" "M2 Hole"
-			(at 66.04 204.4699 0)
+			(at 66.04 242.5699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12023,7 +12023,7 @@
 			)
 		)
 		(property "Footprint" "Append_Connector:Hole_2×4.5mm"
-			(at 63.5 204.47 0)
+			(at 63.5 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12032,7 +12032,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 63.5 204.47 0)
+			(at 63.5 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12041,7 +12041,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection as pad named MP"
-			(at 63.5 204.47 0)
+			(at 63.5 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13012,7 +13012,7 @@
 	)
 	(symbol
 		(lib_id "power:VDD")
-		(at 279.4 152.4 0)
+		(at 177.8 165.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13020,7 +13020,7 @@
 		(dnp no)
 		(uuid "76e5e829-fa41-46a2-a2a8-c845803751e3")
 		(property "Reference" "#PWR031"
-			(at 279.4 156.21 0)
+			(at 177.8 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13029,7 +13029,7 @@
 			)
 		)
 		(property "Value" "VDD"
-			(at 279.4 148.59 0)
+			(at 177.8 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13037,7 +13037,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 279.4 152.4 0)
+			(at 177.8 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13046,7 +13046,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 279.4 152.4 0)
+			(at 177.8 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13055,7 +13055,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 279.4 152.4 0)
+			(at 177.8 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14452,7 +14452,7 @@
 	)
 	(symbol
 		(lib_id "power:VSS")
-		(at 279.4 185.42 180)
+		(at 177.8 195.58 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14461,7 +14461,7 @@
 		(fields_autoplaced yes)
 		(uuid "a87c3895-c793-4e9a-bd73-6bcbdfffdb58")
 		(property "Reference" "#PWR036"
-			(at 279.4 181.61 0)
+			(at 177.8 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14470,7 +14470,7 @@
 			)
 		)
 		(property "Value" "VSS"
-			(at 279.4 190.5 0)
+			(at 177.8 200.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14478,7 +14478,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 279.4 185.42 0)
+			(at 177.8 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14487,7 +14487,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 279.4 185.42 0)
+			(at 177.8 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14496,7 +14496,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 279.4 185.42 0)
+			(at 177.8 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14753,7 +14753,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad_MP")
-		(at 25.4 204.47 0)
+		(at 25.4 242.57 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -14762,7 +14762,7 @@
 		(fields_autoplaced yes)
 		(uuid "b27fb9fc-3e64-4f78-98db-f38663c052d6")
 		(property "Reference" "H1"
-			(at 27.94 201.9299 0)
+			(at 27.94 240.0299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14771,7 +14771,7 @@
 			)
 		)
 		(property "Value" "M2 Hole"
-			(at 27.94 204.4699 0)
+			(at 27.94 242.5699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14780,7 +14780,7 @@
 			)
 		)
 		(property "Footprint" "Append_Connector:Hole_2×4.5mm"
-			(at 25.4 204.47 0)
+			(at 25.4 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14789,7 +14789,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 25.4 204.47 0)
+			(at 25.4 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14798,7 +14798,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection as pad named MP"
-			(at 25.4 204.47 0)
+			(at 25.4 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15508,7 +15508,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad_MP")
-		(at 50.8 204.47 0)
+		(at 50.8 242.57 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -15517,7 +15517,7 @@
 		(fields_autoplaced yes)
 		(uuid "ce19e40e-ef06-447b-9ecc-9b8c47d4dc7f")
 		(property "Reference" "H3"
-			(at 53.34 201.9299 0)
+			(at 53.34 240.0299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15526,7 +15526,7 @@
 			)
 		)
 		(property "Value" "M2 Hole"
-			(at 53.34 204.4699 0)
+			(at 53.34 242.5699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15535,7 +15535,7 @@
 			)
 		)
 		(property "Footprint" "Append_Connector:Hole_2×4.5mm"
-			(at 50.8 204.47 0)
+			(at 50.8 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15544,7 +15544,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 50.8 204.47 0)
+			(at 50.8 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15553,7 +15553,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection as pad named MP"
-			(at 50.8 204.47 0)
+			(at 50.8 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15981,7 +15981,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 279.4 160.02 0)
+		(at 177.8 171.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15990,7 +15990,7 @@
 		(fields_autoplaced yes)
 		(uuid "de51df47-46e0-4a99-91de-368a8cdf49a9")
 		(property "Reference" "R13"
-			(at 281.94 158.7499 0)
+			(at 180.34 170.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15999,7 +15999,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 281.94 161.2899 0)
+			(at 180.34 172.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16008,7 +16008,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 277.622 160.02 90)
+			(at 176.022 171.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16017,7 +16017,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 279.4 160.02 0)
+			(at 177.8 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16026,7 +16026,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 279.4 160.02 0)
+			(at 177.8 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16716,7 +16716,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 279.4 175.26 0)
+		(at 177.8 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16725,7 +16725,7 @@
 		(fields_autoplaced yes)
 		(uuid "ec1aa0e7-d580-4234-bb26-9de683cbcff9")
 		(property "Reference" "C11"
-			(at 283.21 173.9899 0)
+			(at 181.61 184.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16734,7 +16734,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 283.21 176.5299 0)
+			(at 181.61 186.6899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16743,7 +16743,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 280.3652 179.07 0)
+			(at 178.7652 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16752,7 +16752,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 279.4 175.26 0)
+			(at 177.8 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16761,7 +16761,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 279.4 175.26 0)
+			(at 177.8 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17560,7 +17560,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 266.7 175.26 90)
+		(at 165.1 185.42 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17569,7 +17569,7 @@
 		(fields_autoplaced yes)
 		(uuid "ff29bd1b-513a-429d-97bc-0b46e7830919")
 		(property "Reference" "SW1"
-			(at 267.97 173.9899 90)
+			(at 166.37 184.1499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17578,7 +17578,7 @@
 			)
 		)
 		(property "Value" "NRST"
-			(at 267.97 176.5299 90)
+			(at 166.37 186.6899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17587,7 +17587,7 @@
 			)
 		)
 		(property "Footprint" "Append_Button_Switch:TS-1070"
-			(at 261.62 175.26 0)
+			(at 160.02 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17596,7 +17596,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 261.62 175.26 0)
+			(at 160.02 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17605,7 +17605,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 266.7 175.26 0)
+			(at 165.1 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
